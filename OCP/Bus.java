@@ -1,5 +1,7 @@
 package OCP;
 
+// Данный клас закрыт для изменения параметров 
+
 public class Bus extends Vehicle{
     @Override
     public double calculateAllowedSpeed() {

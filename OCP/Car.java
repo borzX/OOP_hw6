@@ -1,5 +1,7 @@
 package OCP;
 
+// Данный клас закрыт для изменения параметров 
+
 public class Car extends Vehicle{
     public Car(int maxSpeed) {
         super(maxSpeed, "Car");
