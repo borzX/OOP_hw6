@@ -1,5 +1,7 @@
 package SRP;
 
+// Данный класс отвечающий за характеристики работника обособлен от класса выполняющиего расчет заработной платы
+
 public class Employee {
     private String name;
     private String dol;

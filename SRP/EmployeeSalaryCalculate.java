@@ -1,5 +1,7 @@
 package SRP;
 
+// Данный класс отвечающий за расчет заработной платы обособлен от класса характеристик работника
+
 public class EmployeeSalaryCalculate {
     private int baseSalary;
 
